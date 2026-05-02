@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 Soon-to-be Data Analytics graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
 
-Currently seeking opportunities where I can contribute and keep growing. Based in St. John's, open to remote opportunities.
+Currently seeking opportunities where I can contribute and keep growing. Based in St. John's, NL, Canada, open to remote opportunities.
 
 When I'm not working with data, you will find me sewing, flying a drone, or building my family tree. 
 
