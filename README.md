@@ -22,7 +22,7 @@ When I'm not working with data, you will find me sewing, flying a drone, or buil
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ## 🌱 Currently building my portfolio and working on:
 
-- **Project "Housing":** [Building a forecasting machine learning model in Python.]  
+- **Project "Housing":** Building a forecasting machine learning model in Python
 
 ## 🛠️ Technical Skillset
 
