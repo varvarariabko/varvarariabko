@@ -13,9 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-Soon-to-be graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
+Soon-to-be Data Analytics graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
 
-When I'm not working with data, you will find me sewing, flying a drone or building my family tree. 
+Currently seeking opportunities where I can contribute and keep growing. Based in St. John's, open to remote opportunities.
+
+When I'm not working with data, you will find me sewing, flying a drone, or building my family tree. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://varvarariabko.github.io/)
