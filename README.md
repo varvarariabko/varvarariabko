@@ -20,9 +20,7 @@ Currently seeking opportunities where I can contribute and keep growing. Based i
 When I'm not working with data, you will find me sewing, flying a drone, or building my family tree. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://varvarariabko.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+## 🌱 Currently building my portfolio and working on:
 
 - **Project "Housing":** [Building a forecasting machine learning model in Python.]  
 
