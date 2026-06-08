@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-Soon-to-be Data Analytics graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
+Data Analytics graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
 
 Currently seeking opportunities where I can contribute and keep growing. Based in St. John's, NL, Canada, open to remote opportunities.
 
@@ -22,7 +22,8 @@ When I'm not working with data, you will find me sewing, flying a drone, or buil
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ## 🌱 Currently building my portfolio and working on:
 
-- **Project "Housing":** Building a forecasting machine learning model in Python
+- **King County House Price Analysis**: Exploratory data analysis and predictive modeling of King County house prices using Linear Regression and Random Forest in Python
+  [king-county-house-price-analysis](https://github.com/varvarariabko/king-county-house-price-analysis)
 
 ## 🛠️ Technical Skillset
 
