@@ -1,42 +1,77 @@
+
 ## Hi there, I'm Varvara 👋
 
+  
+
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+Student;Making+Sense+of+Data;Insight-driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+Graduate;From+Data+to+Business+Insights;Python%2C+SQL%2C+Power+BI%2C+Excel" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+  
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/varvara-riabko"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:varvara.riabko@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/varvara-riabko"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:varvara.riabko@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-Data Analytics graduate with a love for data and problem-solving. Whether it's cleaning messy datasets or visualizing trends, I'm happiest when data leads to real insights.
+  
 
-Currently seeking opportunities where I can contribute and keep growing. Based in St. John's, NL, Canada, open to remote opportunities.
+## 🚀 About Me
 
-When I'm not working with data, you will find me sewing, flying a drone, or building my family tree. 
+A graduate with a degree in Data Analytics, also bringing background in customer service and documentation. I do not j‌ust look at data; I un͏derstand how to expl‍ain what it means to real people. 
+
+My experice working with customers gave me something you can only learn in a business environment: a genuine understanding of what questions are actually important, and how to present those insights in a way that is easy to process for everyone.
+
+ 
+
+Looking for opportunities to grow as a data professional and hopefully help businesses take their data and convert it into real insights. 
+I am based in St. John's, NL, Canada, open to remote opportunities.
+
+  
+
+When I'm not working with data, you will find me sewing, flying a drone, or building my family tree.
+
+  
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-## 🌱 Currently building my portfolio and working on:
+
+## 🌱  Data Analytics Projects:
+
+  
 
 - **King County House Price Analysis**: Exploratory data analysis and predictive modeling of King County house prices using Linear Regression and Random Forest in Python
-  [king-county-house-price-analysis](https://github.com/varvarariabko/king-county-house-price-analysis)
+
+[king-county-house-price-analysis](https://github.com/varvarariabko/king-county-house-price-analysis)
+
+  - **Next project:** Power BI dashboard (in progress)
 
 ## 🛠️ Technical Skillset
 
+  
+
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
+  
+
 #### Data Analysis & Visualization
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+
+<!-- 💡 Go to Shields.io to create your own badges -->
+
+![Static Badge](https://img.shields.io/badge/Power%20BI-%23F2C811)
+
+![Static Badge](https://img.shields.io/badge/Excel-%231D6F42)
+
 
 #### Programming & Automation
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+
+![Static Badge](https://img.shields.io/badge/Python-646464?logo=python&logoColor=white)
+
+ ![Static Badge](https://img.shields.io/badge/SQL-%2300758F?logo=mySQL&logoColor=white)
 </p>
+
+
