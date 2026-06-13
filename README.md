@@ -19,23 +19,19 @@
 
 ## 🚀 About Me
 
-A graduate with a degree in Data Analytics, also bringing background in customer service and documentation. I do not j‌ust look at data; I un͏derstand how to expl‍ain what it means to real people. 
 
-My experice working with customers gave me something you can only learn in a business environment: a genuine understanding of what questions are actually important, and how to present those insights in a way that is easy to process for everyone.
+I’m a graduate in data analytics with a solid background in ERP systems and business process documentation. I handle data from start to finish — I dig into the raw numbers, clean things up, and turn everything into dashboards and reports that anyone can actually understand and use.
 
+After spending eight years supporting SAP ERP and Microsoft Dynamics GP, I’ve really learned how business processes shape the data, where things tend to fall apart, and what good documentation and analysis can do to fix those weak spots. I always bring that real-world, operational know-how to every analytics project I tackle.
  
 
-Looking for opportunities to grow as a data professional and hopefully help businesses take their data and convert it into real insights. 
+Looking for opportunities to grow as a data professional and help businesses take their data and convert it into real insights. 
 I am based in St. John's, NL, Canada, open to remote opportunities.
 
-  
 
 When I'm not working with data, you will find me sewing, flying a drone, or building my family tree.
 
   
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-
 ## 🌱  Data Analytics Projects:
 
   
@@ -48,30 +44,24 @@ When I'm not working with data, you will find me sewing, flying a drone, or buil
 
 ## 🛠️ Technical Skillset
 
-  
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-  
-
-#### Data Analysis & Visualization
-
 <p>
 
-<!-- 💡 Go to Shields.io to create your own badges -->
-
+#### Analysis & Visualization
 ![Static Badge](https://img.shields.io/badge/Power%20BI-%23F2C811)
+![Static Badge](https://img.shields.io/badge/Excel-%231D6F42) (advanced formulas, data modeling, dashboards)
+![Static Badge](https://img.shields.io/badge/Python-646464?logo=python&logoColor=white) (Pandas, NumPy, Matplotlib, Seaborn)
+#### Databases
 
-![Static Badge](https://img.shields.io/badge/Excel-%231D6F42)
+ ![Static Badge](https://img.shields.io/badge/SQL-%2300758F?logo=mySQL&logoColor=white) (querying, joins, aggregations, filtering)
+
+#### Enterprise Systems
+
+![Static Badge](https://img.shields.io/badge/SAP%20ERP-%20%230C7ECF?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Dynamics%20GP-%20%23f25022)
 
 
-#### Programming & Automation
-
-<p>
-
-![Static Badge](https://img.shields.io/badge/Python-646464?logo=python&logoColor=white)
-
- ![Static Badge](https://img.shields.io/badge/SQL-%2300758F?logo=mySQL&logoColor=white)
 </p>
 
+## :speaking_head: Languages
 
+Ukrainian (native), English (C1), German (C1), Polish (C1)
